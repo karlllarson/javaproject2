@@ -8,3 +8,5 @@ public class Main {
 	}
 }
 ```
+### Output
+![Capture](https://user-images.githubusercontent.com/35807054/118667351-90235700-b7b9-11eb-9b31-24147afdca50.PNG)
